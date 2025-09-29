@@ -1,0 +1,11 @@
+.eliminar{
+    width: 4rem;
+    height: 1.5rem;
+}
+.tareas{
+    display: flex;
+    justify-content:  center;
+    gap: 3rem;
+    margin-top: 3rem;
+    
+}
